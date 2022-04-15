@@ -1,0 +1,2 @@
+spring.config.import: optional:configserver:${CONFIG_SERVER_URI:http://localhost:7312/}
+spring.cloud.config.name: teacher-service
