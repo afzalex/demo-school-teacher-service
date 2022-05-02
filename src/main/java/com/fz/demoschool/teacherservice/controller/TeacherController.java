@@ -1,6 +1,6 @@
 package com.fz.demoschool.teacherservice.controller;
 
-import com.fz.demoschool.core.TeacherModel;
+import com.fz.demoschool.core.dto.TeacherModel;
 import com.fz.demoschool.teacherservice.service.TeacherService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
